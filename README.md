@@ -48,20 +48,15 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 
 # Análisis y Conclusiones:
 
-En el análisis de los datos sobre siniestros, se observaron diferentes patrones temporales y características de las víctimas.<br>
-En cuanto a la distribución anual, se destacó que alrededor del 60% de las víctimas fatales ocurrieron en los primeros 3 años del conjunto de datos, en los últimos años hubo una disminución, que se acentuó en el 2020.<br>
-Hay que tener en cuenta que los datos corresponden a Ciudad Autónoma de Buenos Aires y en el año 2020 se vivió una situación muy particular como consecuencia de la pandemia de COVID. En Argentina, a través de un decreto de necesidad y urgencia se limitó la circulación de las personas.<br>
-El Aislamiento Social Preventivo Y Obligatorio (desde ahora ASPO) comenzó a regir a partir del 20 de Marzo del 2020 y claramente afectó en la disminución de los siniestros. (DNU: https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320)<br>
-Los meses más estrictos con respecto a la circulación fueron entre marzo y octubre, luego se nota la   flexibilización de las medidas con un pico de casos para fines de ese año.<br>
+Durante el análisis de los datos sobre siniestros viales, se identificaron diversos patrones temporales y características de las víctimas. En términos de distribución anual, se destaca que aproximadamente el 60% de las víctimas fatales ocurrieron en los primeros tres años del conjunto de datos, con una disminución notable en los años más recientes, especialmente en 2020.
 
-El análisis de franjas horarias reveló que la mayoría de los siniestros ocurren en las primeras horas de la mañana (entre las 4 y las 8), siendo las primeras horas del día cuando ocurren menos hechos (entre las 0 y las 4)
+Es importante considerar que estos datos corresponden a la Ciudad Autónoma de Buenos Aires y que el año 2020 estuvo marcado por la pandemia de COVID-19. En Argentina, se implementaron restricciones a la circulación de personas a través de un decreto de necesidad y urgencia, lo que llevó al inicio del Aislamiento Social Preventivo y Obligatorio (ASPO) a partir del 20 de marzo de 2020. Esta medida tuvo un impacto claro en la reducción de los siniestros viales.
 
-De cada 4 víctimas, 3 son hombres (75%), y se observa que en general son más jóvenes que las mujeres.
-La mayoría de los hombres jóvenes (15-30) son conductores de motos, y las mujeres jóvenes son acompañantes de motos.
-Los adultos mayores (65+) tanto hombres como mujeres son en su gran mayoría peatones.
-Los hombres adultos (30-65) tienen el mismo patrón que los jóvenes, son conductores de motos, en cambio las mujeres mayores (30-65) siguen el patrón de las mujeres adultas mayores, es decir son peatones en su mayoría.
+El análisis de las franjas horarias reveló que la mayoría de los siniestros ocurren en las primeras horas de la mañana, entre las 5 y las 7, mientras que las horas de menor incidencia son entre las 0 y las 2.
 
-Estudiando la distribucion de edades separadas por sexo se evidencia que cuando mas joven es el hombre, mas propenso a siniestros viales. En cambio en las mujeres la edad no parece influir demasiado, es mucho mas uniforme sin patrones claros.
+Se observó que aproximadamente el 75% de las víctimas son hombres. Además, se identificó que la mayoría de los hombres jóvenes (entre 15 y 30 años) son conductores de motos, mientras que las mujeres jóvenes suelen ser acompañantes de motos. En el caso de los adultos mayores (más de 65 años), tanto hombres como mujeres son principalmente peatones.
+
+En cuanto a la distribución de edades separadas por sexo, se evidencia que los hombres más jóvenes tienen una mayor propensión a los siniestros viales. En cambio, en las mujeres, la influencia de la edad parece ser menos significativa, mostrando una distribución más uniforme sin patrones claros.
 
 
 # KPI
@@ -86,7 +81,8 @@ Se plantearon 3 objetivos para disminuir las víctimas en siniestros, los 3 Indi
 
 # Recomendaciones:
 
-- Continuar monitoreando los objetivos propuestos acompañados de campañas puntuales, en especial a conductores de motos.
-- Reforzar las campañas de seguridad vial principalmente en las primeras horas de la mañana.
-- Mejorar la concientización sobre los accidentes, centrándose principalmente en los hombres en el rango de edad activos (15-64), quienes continúan siendo los más propensos a sufrir siniestros mortales.
+- Persistir en el seguimiento de los objetivos establecidos mediante campañas específicas, especialmente dirigidas a los conductores de motocicletas.
+- Fortalecer las iniciativas de seguridad vial, con énfasis en las primeras horas de la mañana.
+- Aumentar la conciencia sobre los accidentes viales, focalizándose en particular en los hombres en el rango de edad activa (15-64 años), quienes siguen siendo los más vulnerables a 
+  sufrir accidentes mortales.
 

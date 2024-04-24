@@ -13,7 +13,7 @@
 - [KPI](#kpi)
 - [Recomendaciones](#recomendaciones)
 # Introducción:
-En el marco del Proyecto Integral de Análisis de Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA), se presenta una iniciativa colaborativa con el Observatorio de Movilidad y Seguridad Vial (OMSV). El propósito central de este proyecto es realizar un análisis exhaustivo de datos relacionados con siniestros viales ocurridos entre los años 2016 y 2021. La misión primordial consiste en proporcionar información valiosa que permita a las autoridades locales tomar medidas efectivas para reducir el número de víctimas fatales en accidentes de tráfico.
+Dentro del contexto del Proyecto Integral de Estudio de Accidentes de Tránsito en la Ciudad Autónoma de Buenos Aires (CABA), se plantea una colaboración con el Observatorio de Movilidad y Seguridad Vial (OMSV). El objetivo principal de esta iniciativa es llevar a cabo un análisis detallado de los datos relacionados con los accidentes de tráfico ocurridos entre los años 2016 y 2021. La meta fundamental es proporcionar información relevante que permita a las autoridades locales tomar acciones efectivas para disminuir el número de muertes en accidentes de tráfico.
 
 # Contexto:
 Argentina enfrenta una preocupante situación respecto a las muertes por siniestros viales, con cifras alarmantes según los informes del Sistema Nacional de Información Criminal (SNIC). Entre 2018 y 2022, se registraron 19.630 muertes en accidentes de tráfico en todo el país, lo que equivale a un promedio de 11 personas fallecidas por día. Estas estadísticas evidencian una problemática que afecta a nivel nacional, siendo esencial abordarla de manera específica en la Ciudad de Buenos Aires.

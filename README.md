@@ -1,4 +1,4 @@
-![1]([siniestros _viales.jpg](https://github.com/arnaldoquinones/PROYECTO-INDIVIDUAL-N-2/blob/main/siniestros%20_viales.jpg?raw=true)
+![1](https://github.com/arnaldoquinones/PROYECTO-INDIVIDUAL-N-2/blob/main/siniestros%20_viales.jpg?raw=true)
 
 # PROYECTO-INDIVIDUAL-N-2
 

@@ -1,3 +1,6 @@
+!imagen inicio ("D:\Users\Arnaldo\Desktop\SISTEMAS\SOYHENRY\CURSO\PROYECTOS\PROYECTO INDIVIDUAL II\siniestros _viales.jpg")
+
+
 # PROYECTO-INDIVIDUAL-N-2
 
 # Indice del contenido:
@@ -57,8 +60,6 @@ Hay que tener en cuenta que los datos corresponden a Ciudad Autónoma de Buenos 
 El Aislamiento Social Preventivo Y Obligatorio (desde ahora ASPO) comenzó a regir a partir del 20 de Marzo del 2020 y claramente afectó en la disminución de los siniestros. (DNU: https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320)<br>
 Los meses más estrictos con respecto a la circulación fueron entre marzo y octubre, luego se nota la   flexibilización de las medidas con un pico de casos para fines de ese año.<br>
 
-<p align="center"><img src="images\trimestres.jpg" width="600" height="350"></p>
-
 El análisis de franjas horarias reveló que la mayoría de los siniestros ocurren en las primeras horas de la mañana (entre las 4 y las 8), siendo las primeras horas del día cuando ocurren menos hechos (entre las 0 y las 4)
 
 De cada 4 víctimas, 3 son hombres (75%), y se observa que en general son más jóvenes que las mujeres.
@@ -67,9 +68,6 @@ Los adultos mayores (65+) tanto hombres como mujeres son en su gran mayoría pea
 Los hombres adultos (30-65) tienen el mismo patrón que los jóvenes, son conductores de motos, en cambio las mujeres mayores (30-65) siguen el patrón de las mujeres adultas mayores, es decir son peatones en su mayoría.
 
 Estudiando la distribucion de edades separadas por sexo se evidencia que cuando mas joven es el hombre, mas propenso a siniestros viales. En cambio en las mujeres la edad no parece influir demasiado, es mucho mas uniforme sin patrones claros.
-
-<p align="center"><img src="images\distribucion_edades.jpg" width="600" height="450"></p>
-
 
 
 # KPI

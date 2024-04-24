@@ -16,26 +16,22 @@
 Dentro del contexto del Proyecto Integral de Estudio de Accidentes de Tránsito en la Ciudad Autónoma de Buenos Aires (CABA), se plantea una colaboración con el Observatorio de Movilidad y Seguridad Vial (OMSV). El objetivo principal de esta iniciativa es llevar a cabo un análisis detallado de los datos relacionados con los accidentes de tráfico ocurridos entre los años 2016 y 2021. La meta fundamental es proporcionar información relevante que permita a las autoridades locales tomar acciones efectivas para disminuir el número de muertes en accidentes de tráfico.
 
 # Contexto:
-Argentina enfrenta una preocupante situación respecto a las muertes por siniestros viales, con cifras alarmantes según los informes del Sistema Nacional de Información Criminal (SNIC). Entre 2018 y 2022, se registraron 19.630 muertes en accidentes de tráfico en todo el país, lo que equivale a un promedio de 11 personas fallecidas por día. Estas estadísticas evidencian una problemática que afecta a nivel nacional, siendo esencial abordarla de manera específica en la Ciudad de Buenos Aires.
-El proyecto se enfoca en analizar a fondo los siniestros viales en CABA, identificando patrones, tendencias y factores clave que puedan contribuir a la toma de decisiones informadas. Con un enfoque integral, se busca comprender la dinámica de estos incidentes, desde aspectos temporales y geográficos hasta la influencia de diferentes tipos de vehículos y actores en las vías públicas.
+
+Argentina se enfrenta a una situación alarmante en relación con las muertes causadas por accidentes de tráfico, con cifras preocupantes según los reportes del Sistema Nacional de Información Criminal (SNIC). Entre los años 2018 y 2022, se han registrado 19,630 fallecimientos en accidentes viales en todo el territorio argentino, representando un promedio de 11 muertes diarias. Estas estadísticas ponen de manifiesto una problemática a nivel nacional, destacando la necesidad de abordarla de manera específica en la Ciudad de Buenos Aires. El proyecto se centra en realizar un análisis exhaustivo de los accidentes de tráfico en CABA, identificando tendencias, patrones y factores cruciales que puedan contribuir a la toma de decisiones fundamentadas. Con un enfoque integral, se busca comprender la dinámica de estos eventos, desde aspectos temporales y geográficos hasta el impacto de distintos tipos de vehículos y actores en las calles y carreteras.
 
 
 # Desarrollo del Proyecto
-El desarrollo del proyecto se divide en varias etapas:
-- Extracción, transformación y carga (ETL): Se cargan y transforman los datos de siniestros viales para su posterior análisis.
-- Análisis Exploratorio de Datos (EDA): Utilizando Pandas, Numpy, Seaborn, Matplotlib y Folium, se exploran patrones, relaciones y tendencias en los conjuntos de datos. Se identifican variables clave para la presentación en el panel de control (dashboard).
-- Creación de una base de datos en mysql con la información necesaria para el dashboard.
-- Creación del Dashboard en Power BI: Se desarrolla un panel de control interactivo en Power BI destacando análisis clave por variables temporales, genero, ubicacion geográficas y relacionadas con las víctimas.
-- Definición de KPIs y Conclusiones: Se establecen Indicadores Clave de Desempeño (KPIs). Se presentan conclusiones y recomendaciones para mejorar la seguridad vial en CABA.
 
-# Estructura del Proyecto
-La estructura del proyecto sigue un patrón organizativo claro para facilitar la comprensión y reproducción. A continuación, se detalla la estructura de carpetas y archivos:
+El proyecto se desglosa en varias fases:
 
-- /Data: Contiene los conjuntos de datos utilizados, los datos limpios y el Dashboard en Power BI.
-- /images: Almacena imágenes relevantes para visualizaciones, armado del Dashboard y del README.
-- .gitignore: para especificar archivos y directorios que deben ser ignorados y no incluidos en el repositorio
-- LICENSE: licencia legal bajo la cual se distribuye y comparte el código fuente
-- README.md: descripción y documentación del proyecto
+- Extracción, Transformación y Carga (ETL): Los datos de los siniestros viales se procesan y cargan para su posterior análisis.
+- Análisis Exploratorio de Datos (EDA): Se emplean herramientas como Pandas, Numpy, Seaborn, Matplotlib y Folium para examinar patrones, relaciones y tendencias en los conjuntos de 
+  datos. Se identifican variables cruciales para incluir en el tablero de control.
+- Elaboración del Tablero de Control en Power BI: Se elabora un tablero de control interactivo en Power BI que resalta análisis clave según variables temporales, género, ubicación 
+  geográfica y aspectos relacionados con las víctimas.
+- Definición de KPIs y Conclusiones: Se definen Indicadores Clave de Desempeño (KPIs). Se presentan conclusiones y sugerencias para mejorar la seguridad vial en la Ciudad Autónoma de 
+  Buenos Aires (CABA).
+
 # Tecnologías Utilizadas
 
 El proyecto hace uso de diversas tecnologías y herramientas para realizar un análisis exhaustivo de los siniestros viales. Algunas de las principales tecnologías utilizadas incluyen:
@@ -48,7 +44,6 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 - [![Folium](https://img.shields.io/badge/Library-Folium-green)](https://python-visualization.github.io/folium/)
 - [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
 - [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
-- [![MySQL](https://img.shields.io/badge/Database-MySQL-orange)](https://www.mysql.com/)
 - [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
 
 # Análisis y Conclusiones:

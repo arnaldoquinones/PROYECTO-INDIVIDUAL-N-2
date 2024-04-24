@@ -1,4 +1,4 @@
-imagen inicio ("D:\Users\Arnaldo\Desktop\SISTEMAS\SOYHENRY\CURSO\PROYECTOS\PROYECTO INDIVIDUAL II\siniestros _viales.jpg")
+("D:\Users\Arnaldo\Desktop\SISTEMAS\SOYHENRY\CURSO\PROYECTOS\PROYECTO INDIVIDUAL II\siniestros _viales.jpg")
 
 
 # PROYECTO-INDIVIDUAL-N-2

@@ -1,4 +1,3 @@
-<p align="center"><img src=D:\Users\Arnaldo\Desktop\SISTEMAS\SOYHENRY\CURSO\PROYECTOS\PROYECTO INDIVIDUAL II\siniestros _viales.jpg"  width="600" height="165"></p>"
 
 
 # PROYECTO-INDIVIDUAL-N-2

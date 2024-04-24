@@ -1,4 +1,4 @@
-![Uploading siniestros _viales.jpg…]()
+![](siniestros _viales.jpg)
 
 # PROYECTO-INDIVIDUAL-N-2
 

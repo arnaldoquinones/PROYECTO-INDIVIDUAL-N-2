@@ -8,6 +8,7 @@
 - [Contexto](#contexto)
 - [Desarrollo del Proyecto](#desarrollo-del-proyecto)
 - [ETL](#ETL (Exploración, Transformación y Carga))
+- [EDA](#EDA (Análisis Exploratorio de datos))
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Análisis y Conclusiones](#análisis-y-conclusiones)
 - [KPI](#kpi)
@@ -31,6 +32,7 @@ El proyecto se desglosa en varias fases:
   geográfica y aspectos relacionados con las víctimas.
 - Definición de KPIs y Conclusiones: Se definen Indicadores Clave de Desempeño (KPIs). Se presentan conclusiones y sugerencias para mejorar la seguridad vial en la Ciudad Autónoma de 
   Buenos Aires (CABA).
+  
 #  ETL (Exploración, Transformación y Carga)
 En la fase inicial, se llevó a cabo el proceso de exploración, transformación y carga de datos en ambas tablas, Hechos y Víctimas, para prepararlos de manera óptima para el análisis:
 
@@ -40,8 +42,10 @@ En la fase inicial, se llevó a cabo el proceso de exploración, transformación
 - Creación de nuevas columnas para almacenar las coordenadas x e y, extrayéndolas de otra columna existente.
 - Fusión de la tabla de Hechos con la tabla de Víctimas utilizando un identificador único (ID) compartido.
 - Generación de una nueva columna que indique el día de la semana correspondiente a la fecha del siniestro.
+- Generacion de una nueva columna que indique el año de los siniestros.
 - Evaluación de la presencia de valores nulos para tomar medidas correctivas cuando sea necesario.
 - Creación de una columna que clasifique a las víctimas en rangos etarios, con el fin de facilitar un análisis más detallado y específico.
+- 
 # EDA (Análisis Exploratorio de datos)
 Después de completar la limpieza de los tres conjuntos de datos, se llevó a cabo el Análisis Exploratorio de Datos (EDA). Este proceso implicó la elaboración de gráficos y visualizaciones con el objetivo de investigar y comprender las estadísticas, identificar valores atípicos y orientar investigaciones futuras.
 

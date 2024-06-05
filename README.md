@@ -76,8 +76,11 @@ Se plantearon 3 objetivos para disminuir las víctimas en siniestros, los 3 Indi
 
 # Recomendaciones:
 
+Las autoridades podrían considerar incrementar la vigilancia y las campañas de concienciación en estos días y horas específicos. Además, el análisis podría beneficiar la planificación de infraestructuras y políticas de seguridad vial para mitigar estos riesgos.
+En resumen:
 - Persistir en el seguimiento de los objetivos establecidos mediante campañas específicas, especialmente dirigidas a los conductores de motocicletas.
 - Fortalecer las iniciativas de seguridad vial, con énfasis en las primeras horas de la mañana.
 - Aumentar la conciencia sobre los accidentes viales, focalizándose en particular en los hombres en el rango de edad activa (15-64 años), quienes siguen siendo los más vulnerables a 
   sufrir accidentes mortales.
+Estas observaciones pueden servir como base para estrategias de intervención dirigidas a reducir el número de víctimas de accidentes en momentos y lugares identificados como de alto riesgo.
 

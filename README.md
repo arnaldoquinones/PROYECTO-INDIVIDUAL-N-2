@@ -7,7 +7,7 @@
 - [Introducción](#introducción)
 - [Contexto](#contexto)
 - [Desarrollo del Proyecto](#desarrollo-del-proyecto)
-- [Estructura del Proyecto](#estructura-del-proyecto)
+- [ETL](#ETL (Exploración, Transformación y Carga))
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Análisis y Conclusiones](#análisis-y-conclusiones)
 - [KPI](#kpi)
@@ -34,15 +34,15 @@ El proyecto se desglosa en varias fases:
 #  ETL (Exploración, Transformación y Carga)
 En la fase inicial, se llevó a cabo el proceso de exploración, transformación y carga de datos en ambas tablas, Hechos y Víctimas, para prepararlos de manera óptima para el análisis:
 
-Normalización de los nombres de las columnas para garantizar consistencia en los registros.
-Adecuación de los tipos de datos de las columnas para facilitar su manipulación y análisis.
-Identificación y eliminación de registros duplicados para mantener la integridad de los datos.
-Creación de nuevas columnas para almacenar las coordenadas x e y, extrayéndolas de otra columna existente.
-Fusión de la tabla de Hechos con la tabla de Víctimas utilizando un identificador único (ID) compartido.
-Generación de una nueva columna que indique el día de la semana correspondiente a la fecha del siniestro.
-Evaluación de la presencia de valores nulos para tomar medidas correctivas cuando sea necesario.
-Creación de una columna que clasifique a las víctimas en rangos etarios, con el fin de facilitar un análisis más detallado y específico.
-EDA (Análisis Exploratorio de datos)
+- Normalización de los nombres de las columnas para garantizar consistencia en los registros.
+- Adecuación de los tipos de datos de las columnas para facilitar su manipulación y análisis.
+- Identificación y eliminación de registros duplicados para mantener la integridad de los datos.
+- Creación de nuevas columnas para almacenar las coordenadas x e y, extrayéndolas de otra columna existente.
+- Fusión de la tabla de Hechos con la tabla de Víctimas utilizando un identificador único (ID) compartido.
+- Generación de una nueva columna que indique el día de la semana correspondiente a la fecha del siniestro.
+- Evaluación de la presencia de valores nulos para tomar medidas correctivas cuando sea necesario.
+- Creación de una columna que clasifique a las víctimas en rangos etarios, con el fin de facilitar un análisis más detallado y específico.
+# EDA (Análisis Exploratorio de datos)
 Después de completar la limpieza de los tres conjuntos de datos, se llevó a cabo el Análisis Exploratorio de Datos (EDA). Este proceso implicó la elaboración de gráficos y visualizaciones con el objetivo de investigar y comprender las estadísticas, identificar valores atípicos y orientar investigaciones futuras.
 
 # Tecnologías Utilizadas

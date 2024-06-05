@@ -10,8 +10,8 @@
 - [ETL](#ETL (Exploración, Transformación y Carga))
 - [EDA](#EDA (Análisis Exploratorio de datos))
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Análisis y Conclusiones](#análisis-y-conclusiones)
 - [KPI](#kpi)
+- [Análisis y Conclusiones](#análisis-y-conclusiones)
 - [Recomendaciones](#recomendaciones)
 # Introducción:
 Dentro del contexto del Proyecto Integral de Estudio de Accidentes de Tránsito en la Ciudad Autónoma de Buenos Aires (CABA), se plantea una colaboración con el Observatorio de Movilidad y Seguridad Vial (OMSV). El objetivo principal de esta iniciativa es llevar a cabo un análisis detallado de los datos relacionados con los accidentes de tráfico ocurridos entre los años 2016 y 2021. La meta fundamental es proporcionar información relevante que permita a las autoridades locales tomar acciones efectivas para disminuir el número de muertes en accidentes de tráfico.
@@ -63,19 +63,6 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 - [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
 - [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
 
-# Análisis y Conclusiones:
-
-Durante el análisis de los datos sobre siniestros viales, se identificaron diversos patrones temporales y características de las víctimas. En términos de distribución anual, se destaca que aproximadamente el 60% de las víctimas fatales ocurrieron en los primeros tres años del conjunto de datos, con una disminución notable en los años más recientes, especialmente en 2020.
-
-Es importante considerar que estos datos corresponden a la Ciudad Autónoma de Buenos Aires y que el año 2020 estuvo marcado por la pandemia de COVID-19. En Argentina, se implementaron restricciones a la circulación de personas a través de un decreto de necesidad y urgencia, lo que llevó al inicio del Aislamiento Social Preventivo y Obligatorio (ASPO) a partir del 20 de marzo de 2020. Esta medida tuvo un impacto claro en la reducción de los siniestros viales.
-
-El análisis de las franjas horarias reveló que la mayoría de los siniestros ocurren en las primeras horas de la mañana, entre las 5 y las 7, mientras que las horas de menor incidencia son entre las 0 y las 2.
-
-Se observó que aproximadamente el 75% de las víctimas son hombres. Además, se identificó que la mayoría de los hombres jóvenes (entre 15 y 30 años) son conductores de motos, mientras que las mujeres jóvenes suelen ser acompañantes de motos. En el caso de los adultos mayores (más de 65 años), tanto hombres como mujeres son principalmente peatones.
-
-En cuanto a la distribución de edades separadas por sexo, se evidencia que los hombres más jóvenes tienen una mayor propensión a los siniestros viales. En cambio, en las mujeres, la influencia de la edad parece ser menos significativa, mostrando una distribución más uniforme sin patrones claros.
-
-
 # KPI
 
 Se plantearon 3 objetivos para disminuir las víctimas en siniestros, los 3 Indicadores Claves de Rendimiento (KPI) son los siguientes:
@@ -101,7 +88,23 @@ Su fórmula para medir la evolución de los accidentes mortales con víctimas en
 DIVIDE((VictimasAnoAnterior - VictimasUltimoAno) / VictimasAnoAnterior) * 100
 
 Resultado: La reducción de tasa de homicidios en siniestros viales por autopista respecto al año anterior se duplico, con lo cual no solo no cumple con el objetivo del 10% sino que se incremento en un 100%.
-  
+
+# Análisis y Conclusiones:
+
+- Distribución Anual:
+Aproximadamente el 60% de las víctimas fatales ocurrieron en los primeros tres años del conjunto de datos, con una disminución notable en los años más recientes, especialmente en 2020. Este año estuvo marcado por la pandemia de COVID-19, y las restricciones a la circulación impuestas a través del decreto de necesidad y urgencia, que dio inicio al Aislamiento Social Preventivo y Obligatorio (ASPO) a partir del 20 de marzo de 2020, tuvieron un impacto claro en la reducción de los siniestros viales.
+
+- Franjas Horarias:
+El análisis reveló que la mayoría de los siniestros ocurren en las primeras horas de la mañana, entre las 5 y las 7, mientras que las horas de menor incidencia son entre las 0 y las 2. Además, se observan picos más altos en el número de víctimas durante las horas de la mañana (alrededor de las 7-9 AM) y tarde (alrededor de las 5-6 PM), lo que sugiere que los accidentes son más frecuentes durante las horas de mayor tránsito, coincidiendo con los horarios de entrada y salida del trabajo.
+
+- Distribución por Días de la Semana:
+Algunos días específicos muestran picos notables. Por ejemplo, los miércoles a las 8 AM y los sábados a las 5 AM registran un número relativamente alto de víctimas. Los fines de semana, especialmente los sábados, también muestran picos en diferentes horas, indicando que la actividad y posiblemente la imprudencia o la presencia de factores de riesgo aumentan durante estos días.
+
+- Horas Críticas:
+El sábado a las 5 AM destaca con el número más alto de víctimas en una sola hora, lo que podría estar relacionado con accidentes nocturnos después de actividades de fin de semana. Las mañanas de entre semana (especialmente lunes y miércoles) muestran números consistentemente altos, probablemente debido a la alta movilidad en estos días. Las horas nocturnas (después de las 10 PM) tienden a tener menos accidentes, excepto en casos aislados como el sábado en la madrugada. Entre las 2-5 AM de lunes a viernes, hay una disminución general en el número de víctimas, lo cual es esperado debido a la menor cantidad de tráfico en esas horas.
+
+- Características de las Víctimas:
+Aproximadamente el 75% de las víctimas son hombres. La mayoría de los hombres jóvenes (entre 15 y 30 años) son conductores de motos, mientras que las mujeres jóvenes suelen ser acompañantes de motos. En el caso de los adultos mayores (más de 65 años), tanto hombres como mujeres son principalmente peatones. La distribución de edades separadas por sexo muestra que los hombres más jóvenes tienen una mayor propensión a los siniestros viales. En contraste, en las mujeres, la influencia de la edad parece ser menos significativa, mostrando una distribución más uniforme sin patrones claros.
 
 # Recomendaciones:
 

@@ -10,7 +10,7 @@
 - [ETL](#ETL (Exploración, Transformación y Carga))
 - [EDA](#EDA (Análisis Exploratorio de datos))
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [KPI](#kpi)
+- [KPIs](#kpis)
 - [Análisis y Conclusiones](#análisis-y-conclusiones)
 - [Recomendaciones](#recomendaciones)
 # Introducción:
@@ -64,7 +64,7 @@ El proyecto hace uso de diversas tecnologías y herramientas para realizar un an
 - [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
 - [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
 
-# KPI
+# KPIs
 
 Se plantearon 3 objetivos para disminuir las víctimas en siniestros, los 3 Indicadores Claves de Rendimiento (KPI) son los siguientes:
 

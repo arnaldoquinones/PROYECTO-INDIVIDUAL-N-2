@@ -36,7 +36,7 @@ El proyecto se desglosa en varias fases:
 - Definición de KPIs y Conclusiones: Se definen Indicadores Clave de Desempeño (KPIs). Se presentan conclusiones y sugerencias para mejorar la seguridad vial en la Ciudad Autónoma de 
   Buenos Aires (CABA).
 
-
+![1](https://github.com/arnaldoquinones/PROYECTO-INDIVIDUAL-N-2/blob/main/assets/dashb_info_geografica.png?raw=true)
   
 #  ETL (Exploración, Transformación y Carga)
 En la fase inicial, se llevó a cabo el proceso de exploración, transformación y carga de datos en ambas tablas, Hechos y Víctimas, para prepararlos de manera óptima para el análisis:

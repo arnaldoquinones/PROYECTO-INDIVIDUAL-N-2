@@ -57,6 +57,8 @@ En la fase inicial, se llevó a cabo el proceso de exploración, transformación
 Después de completar la limpieza de los tres conjuntos de datos, se llevó a cabo el Análisis Exploratorio de Datos (EDA). Este proceso implicó la elaboración de gráficos y visualizaciones con el objetivo de investigar y comprender las estadísticas, identificar valores atípicos y orientar investigaciones futuras.
 En base al analisis realizado se trabajo con un porcentaje menor al 1% de datos faltantes. En cuanto a outliers se identificaron dos casos a tener presente: la baja de casos 2020 debido a la pandemia y el numero de fatalidades por accidente siendo una victima el 95% de los casos estudiados. 
 
+![1](https://github.com/arnaldoquinones/PROYECTO-INDIVIDUAL-N-2/blob/main/assets/dashb_kpi.png?raw=true)
+
 # Tecnologías Utilizadas
 
 El proyecto hace uso de diversas tecnologías y herramientas para realizar un análisis exhaustivo de los siniestros viales. Algunas de las principales tecnologías utilizadas incluyen:

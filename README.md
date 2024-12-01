@@ -22,7 +22,7 @@ Dentro del contexto del Proyecto Integral de Estudio de Accidentes de Tránsito 
 
 Argentina se enfrenta a una situación alarmante en relación con las muertes causadas por accidentes de tráfico, con cifras preocupantes según los reportes del Sistema Nacional de Información Criminal (SNIC). Entre los años 2018 y 2022, se han registrado 19,630 fallecimientos en accidentes viales en todo el territorio argentino, representando un promedio de 11 muertes diarias. Estas estadísticas ponen de manifiesto una problemática a nivel nacional, destacando la necesidad de abordarla de manera específica en la Ciudad de Buenos Aires. El proyecto se centra en realizar un análisis exhaustivo de los accidentes de tráfico en CABA, identificando tendencias, patrones y factores cruciales que puedan contribuir a la toma de decisiones fundamentadas. Con un enfoque integral, se busca comprender la dinámica de estos eventos, desde aspectos temporales y geográficos hasta el impacto de distintos tipos de vehículos y actores en las calles y carreteras.
 
-
+![1](https://github.com/arnaldoquinones/PROYECTO-INDIVIDUAL-N-2/blob/main/assets/dashb_info_geografica.png?raw=true)
 
 # Desarrollo del Proyecto
 
@@ -36,7 +36,7 @@ El proyecto se desglosa en varias fases:
 - Definición de KPIs y Conclusiones: Se definen Indicadores Clave de Desempeño (KPIs). Se presentan conclusiones y sugerencias para mejorar la seguridad vial en la Ciudad Autónoma de 
   Buenos Aires (CABA).
 
-![1](https://github.com/arnaldoquinones/PROYECTO-INDIVIDUAL-N-2/blob/main/assets/dashb_info_geografica.png?raw=true)
+
   
 #  ETL (Exploración, Transformación y Carga)
 En la fase inicial, se llevó a cabo el proceso de exploración, transformación y carga de datos en ambas tablas, Hechos y Víctimas, para prepararlos de manera óptima para el análisis:

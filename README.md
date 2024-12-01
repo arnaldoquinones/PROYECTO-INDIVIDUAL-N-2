@@ -15,7 +15,9 @@
 - [Recomendaciones](#recomendaciones)
 # Introducción:
 Dentro del contexto del Proyecto Integral de Estudio de Accidentes de Tránsito en la Ciudad Autónoma de Buenos Aires (CABA), se plantea una colaboración con el Observatorio de Movilidad y Seguridad Vial (OMSV). El objetivo principal de esta iniciativa es llevar a cabo un análisis detallado de los datos relacionados con los accidentes de tráfico ocurridos entre los años 2016 y 2021. La meta fundamental es proporcionar información relevante que permita a las autoridades locales tomar acciones efectivas para disminuir el número de muertes en accidentes de tráfico.
+
 ![1](https://github.com/arnaldoquinones/PROYECTO-INDIVIDUAL-N-2/blob/main/assets/dashb_info_general.png?raw=true)
+
 # Contexto:
 
 Argentina se enfrenta a una situación alarmante en relación con las muertes causadas por accidentes de tráfico, con cifras preocupantes según los reportes del Sistema Nacional de Información Criminal (SNIC). Entre los años 2018 y 2022, se han registrado 19,630 fallecimientos en accidentes viales en todo el territorio argentino, representando un promedio de 11 muertes diarias. Estas estadísticas ponen de manifiesto una problemática a nivel nacional, destacando la necesidad de abordarla de manera específica en la Ciudad de Buenos Aires. El proyecto se centra en realizar un análisis exhaustivo de los accidentes de tráfico en CABA, identificando tendencias, patrones y factores cruciales que puedan contribuir a la toma de decisiones fundamentadas. Con un enfoque integral, se busca comprender la dinámica de estos eventos, desde aspectos temporales y geográficos hasta el impacto de distintos tipos de vehículos y actores en las calles y carreteras.

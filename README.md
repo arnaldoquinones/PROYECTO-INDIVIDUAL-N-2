@@ -50,6 +50,8 @@ En la fase inicial, se llevó a cabo el proceso de exploración, transformación
 - Generacion de una nueva columna que indique el año de los siniestros.
 - Evaluación de la presencia de valores nulos para tomar medidas correctivas cuando sea necesario.
 - Creación de una columna que clasifique a las víctimas en rangos etarios, con el fin de facilitar un análisis más detallado y específico.
+
+![1](https://github.com/arnaldoquinones/PROYECTO-INDIVIDUAL-N-2/blob/main/assets/dashb_info_temporal.png?raw=true)
   
 # EDA (Análisis Exploratorio de datos)
 Después de completar la limpieza de los tres conjuntos de datos, se llevó a cabo el Análisis Exploratorio de Datos (EDA). Este proceso implicó la elaboración de gráficos y visualizaciones con el objetivo de investigar y comprender las estadísticas, identificar valores atípicos y orientar investigaciones futuras.
